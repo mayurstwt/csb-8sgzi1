@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-native-app"]=this["webpackJsonpreact-native-app"]||[]).push([[0],{44:function(e,t,n){e.exports=n(61)},61:function(e,t,n){"use strict";n.r(t);var a=n(64),r=n(1),o=n.n(r),p=n(22),c=n(63),i=function(){return o.a.createElement(p.a,{style:{flex:1,justifyContent:"center",alignItems:"center"}},o.a.createElement(c.a,null,"Hello World!"))};a.a.registerComponent("App",(function(){return i})),a.a.runApplication("App",{rootTag:document.getElementById("root")})}},[[44,1,2]]]);
+//# sourceMappingURL=main.466c404f.chunk.js.map

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://mayurstwt.github.io/csb-8sgzi1/static/js/main.466c404f.chunk.js",
+    "main.js.map": "https://mayurstwt.github.io/csb-8sgzi1/static/js/main.466c404f.chunk.js.map",
+    "runtime-main.js": "https://mayurstwt.github.io/csb-8sgzi1/static/js/runtime-main.56feb9bd.js",
+    "runtime-main.js.map": "https://mayurstwt.github.io/csb-8sgzi1/static/js/runtime-main.56feb9bd.js.map",
+    "static/js/2.59c6d363.chunk.js": "https://mayurstwt.github.io/csb-8sgzi1/static/js/2.59c6d363.chunk.js",
+    "static/js/2.59c6d363.chunk.js.map": "https://mayurstwt.github.io/csb-8sgzi1/static/js/2.59c6d363.chunk.js.map",
+    "index.html": "https://mayurstwt.github.io/csb-8sgzi1/index.html",
+    "precache-manifest.1fba572f648a23f980b27468248597e4.js": "https://mayurstwt.github.io/csb-8sgzi1/precache-manifest.1fba572f648a23f980b27468248597e4.js",
+    "service-worker.js": "https://mayurstwt.github.io/csb-8sgzi1/service-worker.js",
+    "static/js/2.59c6d363.chunk.js.LICENSE": "https://mayurstwt.github.io/csb-8sgzi1/static/js/2.59c6d363.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56feb9bd.js",
+    "static/js/2.59c6d363.chunk.js",
+    "static/js/main.466c404f.chunk.js"
+  ]
+}
